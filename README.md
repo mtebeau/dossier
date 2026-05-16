@@ -11,16 +11,7 @@ My work moves across urban history, public history, oral history, and digital hu
 
 Recent work has included founding and co-directing [A Journal of the Plague Year: An Archive of COVID-19](https://github.com/mtebeau/journal-of-the-plague-year), helping lead the development of [Curatescape](https://github.com/mtebeau/curatescape), and writing on digital public history, oral history, and the historical construction of cities and landscapes. Before joining Arizona State University, I founded and directed the Center for Public History + Digital Humanities at Cleveland State University. In Fall 2022, I served as the first [Public Historian in Residence at the Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/report/2022/research-report/visiting-fellows).
 
-Across this work, I have tried to connect scholarly research with public audiences and collaborative practice. My projects and writing have often centered on how communities use digital tools, archives, and historical interpretation to make sense of place, crisis, memory, and civic life. Projects with which I have been involved have drawn more than $6.2 million in grant support.
-</details>
-
-<details>
-<summary><strong>Public Projects</strong></summary>
-
-- 2023. [Global World War II Monuments](https://worldwariimonuments.org/) maps monuments and memorial landscapes in order to explore memory, commemoration, and the afterlives of war.
-- 2020. [A Journal of the Plague Year: An Archive of COVID-19](http://covid19.omeka.net/) built a collaboratively curated archive of the pandemic and became the world’s largest born-digital archive of COVID-19.
-- 2014. [Salt River Stories](https://saltriverstories.org/) presents multimedia historical stories about Phoenix and the Salt River Valley developed by students.
-- 2010. [Curatescape](https://curatescape.org/) established a mobile publishing framework for place-based public history across cities, landscapes, and museums.
+Across this work, I have tried to connect scholarly research with public audiences and collaborative practice. My projects and writing have often centered on how communities use digital tools, archives, and historical interpretation to make sense of place, crisis, memory, and civic life. Over the course of my career, projects and initiatives with which I have been involved have drawn more than $12 million in grant support.
 </details>
 
 <details>
@@ -34,12 +25,19 @@ Across this work, I have tried to connect scholarly research with public audienc
 </details>
 
 <details>
+<summary><strong>Public Projects</strong></summary>
+
+- 2023. [Global World War II Monuments](https://worldwariimonuments.org/) maps monuments and memorial landscapes in order to explore memory, commemoration, and the afterlives of war.
+- 2020. [A Journal of the Plague Year: An Archive of COVID-19](http://covid19.omeka.net/) built a collaboratively curated archive of the pandemic and became the world’s largest born-digital archive of COVID-19.
+- 2014. [Salt River Stories](https://saltriverstories.org/) presents multimedia historical stories about Phoenix and the Salt River Valley developed by students.
+- 2010. [Curatescape](https://curatescape.org/) established a mobile publishing framework for place-based public history across cities, landscapes, and museums.
+</details>
+
+<details>
 <summary><strong>Selected Grants</strong></summary>
 
 - 2020. Arizona Humanities support for *A Journal of the Plague Year: Recording Arizonans’ Experiences with the COVID-19 Pandemic*.
-- 2016. Bureau of Land Management and Colorado Plateau Cooperative Ecosystem Study Unit support for the Glen Canyon Dam Adaptive Management Program administrative history.
-- 2015. National Science Foundation support for *Increasing Citizen Efficacy through Transmedia Engagement Activities in Science-in-Society*.
-- 2014. Carnegie Foundation President’s Initiative support for *SocialScribe/Oral History Toolkit*.
+- 2015. National Science Foundation support for *Increasing Citizen Efficacy through Transmedia Engagement Activities in Science-in-Society*, as co-investigator.
 - 2013. National Endowment for the Humanities support for the *Mobile Museum Initiative*.
 - 2008. U.S. Department of Education support for *Constructing, Consuming, Conserving America*.
 - 2006. U.S. Department of Education support for *The Sounds of American History*.
