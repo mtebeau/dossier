@@ -27,10 +27,12 @@ Across this work, I have tried to connect scholarly research with public audienc
 <details>
 <summary><strong>Public Projects</strong></summary>
 
-- 2023. [Global World War II Monuments](https://worldwariimonuments.org/) maps monuments and memorial landscapes in order to explore memory, commemoration, and the afterlives of war.
 - 2020. [A Journal of the Plague Year: An Archive of COVID-19](http://covid19.omeka.net/) built a collaboratively curated archive of the pandemic and became the world’s largest born-digital archive of COVID-19.
+- 2015-present. As project advisor and exhibit development team lead for [Humanities Action Lab](https://www.humanitiesactionlab.org/), I have contributed to collaborative public history projects including [States of Incarceration](https://statesofincarceration.org/) and [Climates of Inequality](https://www.climatesofinequality.org/).
 - 2014. [Salt River Stories](https://saltriverstories.org/) presents multimedia historical stories about Phoenix and the Salt River Valley developed by students.
 - 2010. [Curatescape](https://curatescape.org/) established a mobile publishing framework for place-based public history across cities, landscapes, and museums.
+- 2006. As principal investigator and founder of the [Cleveland Regional Oral History Project](https://clevelandvoices.org/), I developed and led a large-scale oral history initiative through 2014 in collaboration with the [Center for Public History + Digital Humanities](https://csudigitalhumanities.org/), regional cultural institutions, and community groups. That work led to [Cleveland Voices](https://clevelandvoices.org/) and has documented the history of Northeast Ohio through the voices of its citizens, with more than 1,000 oral histories collected to date.
+- 2003. I founded the [Center for Public History + Digital Humanities](https://csudigitalhumanities.org/), an early base for collaborative work in oral history, digital humanities, and public history in Northeast Ohio.
 </details>
 
 <details>
