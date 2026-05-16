@@ -10,6 +10,8 @@ It serves as a public-facing record of scholarship, collaboration, and historica
 My work moves across urban history, public history, oral history, and digital humanities. I have directed more than two dozen digital humanities, oral history, and public history projects, with a particular interest in cities, landscapes, memory, and the public life of historical interpretation. That work has taken shape through collaborative archives, mobile publishing, museums, community partnerships, and writing about the methods and ethics of public historical practice.
 
 Recent work has included founding and co-directing [A Journal of the Plague Year: An Archive of COVID-19](https://github.com/mtebeau/journal-of-the-plague-year), helping lead the development of [Curatescape](https://github.com/mtebeau/curatescape), and writing on digital public history, oral history, and the historical construction of cities and landscapes. Before joining Arizona State University, I founded and directed the Center for Public History + Digital Humanities at Cleveland State University. In Fall 2022, I served as the first [Public Historian in Residence at the Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/report/2022/research-report/visiting-fellows).
+
+Across this work, I have tried to connect scholarly research with public audiences and collaborative practice. My projects and writing have often centered on how communities use digital tools, archives, and historical interpretation to make sense of place, crisis, memory, and civic life.
 </details>
 
 <details>
@@ -25,11 +27,13 @@ Recent work has included founding and co-directing [A Journal of the Plague Year
 <details>
 <summary><strong>Lectures and International Engagements</strong></summary>
 
-- In 2024, I presented “Curatorial Practice and the Global Turn in Digital Public History” for the Korean Public History Association.
-- In 2024, I presented “Collecting Globally, Curating Locally” for the Information and Archival Science Research Institute Seminars.
-- In 2022, I participated in the [Handbook of Digital Public History book launch](https://www.uni.lu/fr/events/handbook-of-digital-public-history-book-launch/) at the University of Luxembourg.
-- In 2022, I served as the first [Public Historian in Residence at the C2DH](https://www.c2dh.uni.lu/report/2022/research-report/visiting-fellows), where I gave talks on curation, monuments, and pandemic archives.
-- My recent public talks have also included work with the [International Federation for Public History](https://ifph.hypotheses.org/), where I have contributed to conversations on shared authority, digital public history, and landscape.
+- In November 2024, I presented “Collecting Globally, Curating Locally” at the Information and Archival Science Research Institute Seminars at Hankuk University of Foreign Languages in Seoul, South Korea.
+- In May 2024, I presented “Curatorial Practice and the Global Turn in Digital Public History” for the Korean Public History Association at Kyunpook National University.
+- In 2025, I presented “Failures of Memory? The Heterodox Silences of Pandemic Archives” at Linnaeus University in Vaxjo, Sweden.
+- In 2022, I participated in the [Handbook of Digital Public History book launch](https://www.uni.lu/fr/events/handbook-of-digital-public-history-book-launch/) at the University of Luxembourg and, during my residency there, gave talks on digital public history, pandemic archives, and curation.
+- In 2022, I presented “Working Group: Revisiting Shared Authority in the Age of Digital Public History” for the [International Federation for Public History](https://ifph.hypotheses.org/) in Berlin, Germany.
+- In 2022, I gave talks in Hamburg and Muenster on monuments, public history, and pandemic archives, including “Curating Landscape: Monuments and World War II Memory” and “Crowdsourcing Curation: Metadata & Silence in Pandemic Archives.”
+- In 2022, I delivered a plenary presentation, “Covid-19 and Public History: A Critical Take on the Silences of Web Archives and the Silencing of Covid-19 Experiences,” at the International Standing Conference for the History of Education in Milan, Italy.
 </details>
 
 <details>
