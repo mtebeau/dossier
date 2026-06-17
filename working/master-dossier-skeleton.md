@@ -4,7 +4,13 @@ Working file created 2026-06-18.
 
 This is not the final dossier and not a replacement for the formal ASU CV or promotion platform. It is a working skeleton for building the promotion case from scattered CV versions, ASU Vita exports, project records, publications, grants, public evidence, and interpretive claims.
 
-Primary starting source:
+Current official source:
+
+`/Users/mtebeau/Documents/profile-repositories/dossier/evidence/source-materials/Tebeau Vita APRS 20260617.pdf`
+
+This file was downloaded from ASU's Academic Personnel Action Reporting System on 2026-06-17 and generated automatically by Faculty180/APARS. Mark's working judgment is that it is roughly 85% complete from 2013 forward. Earlier career materials still need to be added from older CVs, project records, publications, grants, and institutional files.
+
+Previous starting source:
 
 `/Users/mtebeau/Desktop/desktop May 27 2025/vita (1).doc`
 
@@ -30,7 +36,9 @@ The strongest dossier frame is quantity, quality, and impact. Quantity means a l
 
 ## Source Backbone
 
-The working backbone is `vita (1).doc`, an ASU Vita export covering Spring 2013-Spring 2025. It appears to include current position, biography, expert areas, degrees, work experience, sabbatical, awards/fellowships, credit-bearing instruction, teaching/external learning, curriculum development, sponsored projects/grants, scholarship/publications, technology, other scholarly work, mentorship, university/unit service, and professional service.
+The current official backbone is `Tebeau Vita APRS 20260617.pdf`, an automatically generated ASU/APARS Faculty180 PDF created on 2026-06-17. It should supersede `vita (1).doc` for current post-2013 evidence, while the older export remains useful as a comparison source. The APARS PDF contains current position, biography, expert areas, degrees, work experience, sabbatical, awards/fellowships, credit-bearing instruction, teaching/external learning, curriculum development, sponsored projects/grants, scholarship/publications, technology, other scholarly work, mentorship, university/unit service, and professional service.
+
+Completeness judgment: treat the APARS PDF as about 85% complete from 2013 forward. The major known gap is earlier career material before ASU, including Cleveland State, CPHDH, early public history projects, older grants, early publications, talks, awards, institutional leadership, and pre-2013 evidence of impact.
 
 The public-facing `README.md` in this repository is useful as a prose comparison source. It already offers compact language about the public-facing record: urban, public, and digital history; more than two dozen projects; JOTPY; Curatescape; the Center for Public History + Digital Humanities; more than $12 million in grant support; and the connection between scholarship, public audiences, archives, mobile publishing, and memory.
 
@@ -118,4 +126,4 @@ The first working tables should be:
 
 ## Immediate Next Step
 
-Use `vita-section-map.md` to build the publication and digital/public project evidence tables from the ASU Vita export. Keep the work incremental. The goal is not to complete the dossier in one pass; the goal is to create a reliable evidence architecture that can support strong, affirmative prose later.
+Use `vita-section-map.md` to build the publication and digital/public project evidence tables from the APARS PDF, then begin a separate pre-2013 gap list. Keep the work incremental. The goal is not to complete the dossier in one pass; the goal is to create a reliable evidence architecture that can support strong, affirmative prose later.
