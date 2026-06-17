@@ -13,6 +13,8 @@ Current working files:
 - `grants-evidence-table.md` converts ASU proposal-system screenshots into a first-pass grants record, separating awarded/completed work from declined submissions.
 - `post-project-review-request-tracker.md` tracks post-project/post-hoc review requests.
 - `dossier-models-and-guidance.md` collects models and guidance for strong dossiers.
+- `project-assessments/curatescape-assessment-starting-point.md` records the starting Curatescape assessment: software/platform as scholarship, citation uptake, and impact-classification needs.
+- `project-assessments/jotpy-assessment-starting-point.md` records the starting JOTPY assessment: rapid-response archive, distributed partner ecology, press/public visibility, and the "world's largest" claim to test.
 
 The working rule is to build evidence architecture first, then turn that evidence into affirmative promotion prose later.
 

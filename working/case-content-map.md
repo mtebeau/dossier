@@ -59,6 +59,10 @@ Dossier models and guidance: `/Users/mtebeau/Documents/profile-repositories/doss
 
 Grants evidence table: `/Users/mtebeau/Documents/profile-repositories/dossier/working/grants-evidence-table.md`
 
+Curatescape assessment starting point: `/Users/mtebeau/Documents/profile-repositories/dossier/working/project-assessments/curatescape-assessment-starting-point.md`
+
+JOTPY assessment starting point: `/Users/mtebeau/Documents/profile-repositories/dossier/working/project-assessments/jotpy-assessment-starting-point.md`
+
 Public dossier evidence section: `/Users/mtebeau/Documents/profile-repositories/dossier/public-dossier/README.md`
 
 Field Vault reference register: `/Users/mtebeau/Documents/Codex/Field Vault/projects/Promotion Dossier/references/Source Documents.md`
@@ -82,6 +86,10 @@ Post-project review packets.
 Models/guidance lessons note.
 
 Public GitHub evidence pages for reviewers.
+
+Curatescape impact table from Zotero / Google Scholar capture.
+
+JOTPY 2020-2025 visibility table, including press, partner pages, professional-public venues, and scholarly/pedagogical mentions.
 
 Evidence gap list.
 
