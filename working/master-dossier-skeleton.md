@@ -46,6 +46,8 @@ Goal 4: identify areas where more evidence gathering would strengthen the dossie
 
 Goal 5: create the written case in Mark's voice. AI can detect patterns, build tables, test claims, and sharpen language, but the final prose should sound like Mark: direct, historically grounded, confident without puffery, and affirmative rather than defensive.
 
+Goal 6: develop post-project/post-hoc external reviews for several major public and digital history projects, then request those reviews this summer so they can be returned by next spring. These reviews should help evaluate significance, rigor, role, impact, and field contribution for projects whose scholarly force is not fully captured by traditional publication metrics.
+
 ## Concrete Goal Artifacts
 
 Goal 1 artifact: master evidence table with item, date, type, source, Mark's role, impact marker, and dossier use.
@@ -57,6 +59,12 @@ Goal 3 artifact: reviewer strategy table with current affiliation, field, fit, A
 Goal 4 artifact: evidence gap list divided into missing facts, missing documents, missing metrics, and missing interpretive language.
 
 Goal 5 artifact: one-page case frame and section-level prose in Mark's voice.
+
+Goal 6 artifact: post-project review request tracker and review packets for selected projects. Likely candidates include Curatescape, A Journal of the Plague Year, Cleveland Regional Oral History Project / Cleveland Voices, and possibly Cleveland Historical or Salt River Stories.
+
+Working tracker:
+
+`/Users/mtebeau/Documents/profile-repositories/dossier/working/post-project-review-request-tracker.md`
 
 ## Source Backbone
 
