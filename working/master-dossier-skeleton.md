@@ -58,6 +58,10 @@ Goal 5: create the written case in Mark's voice. AI can detect patterns, build t
 
 Goal 6: develop post-project/post-hoc external reviews for several major public and digital history projects, then request those reviews this summer so they can be returned by next spring. These reviews should help evaluate significance, rigor, role, impact, and field contribution for projects whose scholarly force is not fully captured by traditional publication metrics.
 
+Goal 7: compile models of strong promotion files, strong statements, and practical recommendations for building effective dossiers, especially for public, digital, collaborative, and project-based scholarship.
+
+Goal 8: create a public-facing GitHub dossier evidence section that showcases selected evidence for reviewers, especially materials that support the case but cannot all be included in the formal file.
+
 ## Concrete Goal Artifacts
 
 Goal 1 artifact: master evidence table with item, date, type, source, Mark's role, impact marker, and dossier use.
@@ -75,6 +79,18 @@ Goal 6 artifact: post-project review request tracker and review packets for sele
 Working tracker:
 
 `/Users/mtebeau/Documents/profile-repositories/dossier/working/post-project-review-request-tracker.md`
+
+Goal 7 artifact: dossier models and guidance file, plus a short lessons-from-models note once examples or guidance sources are collected.
+
+Working file:
+
+`/Users/mtebeau/Documents/profile-repositories/dossier/working/dossier-models-and-guidance.md`
+
+Goal 8 artifact: public GitHub dossier evidence section with reviewer-facing pages for major projects, impact evidence, selected publications, grants, and post-project reviews when available.
+
+Working public section:
+
+`/Users/mtebeau/Documents/profile-repositories/dossier/public-dossier/README.md`
 
 ## Source Backbone
 

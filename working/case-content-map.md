@@ -17,6 +17,8 @@ This file keeps the dossier centered on content: the ideas that matter in the ca
 | Teaching and student production are part of the scholarly ecosystem. | Public history teaching produced public-facing work, trained students, and extended the reach of the projects. | APARS vita; course records; Salt River Stories; field school records; student projects; mentorship records. | Teaching and mentorship evidence map; teaching section prose. |
 | Grants demonstrate external validation, scale, leadership, and institutional capacity. | Funded work is evidence of scholarly leadership and project-building power, but awarded grants must be separated from proposals. | APARS vita; older CVs; grant files; institutional records. | Funded-work table; grants paragraph. |
 | External reviewers and post-project reviewers should be chosen for their ability to read the full record. | The case needs readers who can evaluate written scholarship, digital infrastructure, oral history, public archives, public impact, and conventional historical work. | External Reviewer Strategy note; ChatGPT reviewer source; College process page; History criteria; post-project review tracker. | Reviewer verification table; review request packets. |
+| Strong dossier models and guidance should shape the file. | Good examples and practical recommendations can help the case fit the promotion genre while still making the argument in Mark's voice. | ASU/College/SHPRS guidance; AHA/MLA/ACLS guidance; peer models if available; strong promotion statements if Mark can obtain them. | Dossier models and guidance note; lessons-from-models note. |
+| A public GitHub dossier section should showcase evidence that cannot fit inside the formal file. | Reviewers may need a navigable public supplement for project evidence, links, impact markers, and selected context. | `public-dossier/README.md`; project records; public URLs; publications; metrics; press; post-project reviews when available. | Public evidence pages for major projects and impact areas. |
 | The final case must sound like Mark. | Voice is not decorative. The prose should be direct, historically grounded, confident, and affirmative without being inflated or defensive. | Existing scholarly writing; case frame drafts; project evidence; criteria map. | One-page case frame; section-level prose. |
 
 ## Major Evidence Clusters
@@ -33,6 +35,10 @@ International and national standing: C2DH Luxembourg residency, International Fe
 
 Public impact: platform adoption, page views/analytics where available, oral history scale, archive contributors/users, press, citations, partner letters, student outputs, public audiences, and long-term project afterlives.
 
+Models and guidance: strong promotion statements if available, ASU/College/SHPRS guidance, professional association guidance, and peer-institution examples of evaluating public/digital scholarship.
+
+Public evidence showcase: reviewer-facing GitHub pages that present evidence cleanly without overloading the formal file.
+
 ## Evidence Files
 
 Primary current source: `/Users/mtebeau/Documents/profile-repositories/dossier/evidence/source-materials/Tebeau Vita APRS 20260617.pdf`
@@ -44,6 +50,10 @@ Criteria map: `/Users/mtebeau/Documents/profile-repositories/dossier/working/his
 Vita section map: `/Users/mtebeau/Documents/profile-repositories/dossier/working/vita-section-map.md`
 
 Post-project review tracker: `/Users/mtebeau/Documents/profile-repositories/dossier/working/post-project-review-request-tracker.md`
+
+Dossier models and guidance: `/Users/mtebeau/Documents/profile-repositories/dossier/working/dossier-models-and-guidance.md`
+
+Public dossier evidence section: `/Users/mtebeau/Documents/profile-repositories/dossier/public-dossier/README.md`
 
 Field Vault reference register: `/Users/mtebeau/Documents/Codex/Field Vault/projects/Promotion Dossier/references/Source Documents.md`
 
@@ -62,6 +72,10 @@ Teaching and mentorship evidence map.
 Reviewer verification table.
 
 Post-project review packets.
+
+Models/guidance lessons note.
+
+Public GitHub evidence pages for reviewers.
 
 Evidence gap list.
 
