@@ -30,7 +30,7 @@ Stable scholarly identifier:
 
 The promotion case should be built around the convergence of written scholarship, digital public history infrastructure, public humanities leadership, oral history, teaching, and collaborative project-building. The key argument is not that the record is strong in one area despite another. The better frame is that the record is unusually strong because it combines traditional scholarly publication with durable, field-shaping digital and public-history work.
 
-Digital projects in this record should be treated as scholarship. Curatescape, A Journal of the Plague Year, Cleveland Historical, Salt River Stories, and related platforms are not simply dissemination vehicles. They embody theoretical claims about curation, place, shared authority, oral history, metadata, public memory, and historical interpretation.
+Digital projects in this record should be treated as scholarship. Curatescape, A Journal of the Plague Year, Cleveland Historical, Cleveland Voices, Salt River Stories, and related platforms are not simply dissemination vehicles. They embody theoretical claims about curation, place, shared authority, oral history, metadata, public memory, and historical interpretation.
 
 The strongest dossier frame is quantity, quality, and impact. Quantity means a large body of writing, projects, grants, oral histories, public platforms, courses, students, and collaborations. Quality means peer-reviewed scholarship, international invitations, grant support, recognized public projects, and conceptual leadership in digital public history. Impact means reuse, adoption, citations, visitors, students trained, public audiences reached, institutional models created, and practices shaped across the field.
 
@@ -114,7 +114,7 @@ ORCID should be used as a stable identifier when gathering publication records, 
 
 Purpose: establish career trajectory, rank, leadership roles, institutional movement, and evidence of senior scholarly standing.
 
-Known source anchors include Associate Professor at ASU, Director of Public History at ASU, Founding Director of the Center for Public History + Digital Humanities at Cleveland State, Public Historian in Residence at C2DH Luxembourg, and earlier curatorial work at the Western Reserve Historical Society.
+Known source anchors include Associate Professor at ASU, Director of Public History at ASU, founding and directing the Center for Public History + Digital Humanities at Cleveland State, Public Historian in Residence at C2DH Luxembourg, and earlier curatorial work at the Western Reserve Historical Society.
 
 Needed next: verify exact dates, titles, and whether additional leadership roles should be separated from ordinary employment.
 
@@ -130,7 +130,7 @@ Needed next: create a full publication table with citation, genre, peer-review s
 
 Purpose: make the intellectual case for projects as scholarship, not simply service, outreach, or technical production.
 
-Known source anchors include Curatescape, Cleveland Historical, A Journal of the Plague Year, Salt River Stories, Cleveland Regional Oral History Project / Cleveland Voices, Humanities Action Lab partnerships, Climates of Inequality, Global World War II Monuments, and related digital/public humanities initiatives.
+Known source anchors include Curatescape, Cleveland Historical, A Journal of the Plague Year, Salt River Stories, Cleveland Regional Oral History Collection / Cleveland Voices, and Mark's founding work at the Center for Public History + Digital Humanities. Curatescape, Cleveland Historical, and Cleveland Voices should be treated as projects Mark architected. Later CPHDH projects should be treated as source leads only unless Mark's direct role is verified.
 
 Needed next: create a project evidence table with project, dates, role, scholarly claim, public audience, collaborators, platform/infrastructure, scale, evidence of impact, and dossier use.
 
