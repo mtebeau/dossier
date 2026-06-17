@@ -6,7 +6,25 @@ Primary source:
 
 `/Users/mtebeau/Documents/profile-repositories/dossier/evidence/source-materials/CLAS-SHPRS-History Promotion and Tenure Criteria 20250320.pdf`
 
-Source provenance: CLAS / SHPRS / History promotion and tenure criteria. Faculty approval February 24, 2025; dean review/consent February 25, 2025; Provost office approval March 20, 2025. PDF metadata reports Microsoft Word 2021, creation/modification date 2025-03-26. SHA-256 checksum: `7b7eff2bd18988a9068d8af6a5b2131381aca2de5eae2caec3fd74ad4075c141`.
+Source provenance: History promotion and tenure criteria inside SHPRS and The College. Faculty approval February 24, 2025; dean review/consent February 25, 2025; Provost office approval March 20, 2025. PDF metadata reports Microsoft Word 2021, creation/modification date 2025-03-26. SHA-256 checksum: `7b7eff2bd18988a9068d8af6a5b2131381aca2de5eae2caec3fd74ad4075c141`.
+
+Related College process source:
+
+`https://thecollege.asu.edu/resources/academic-personnel/tenure-track-personnel`
+
+The College page is a procedural and navigation source for review process, forms, preparation questions, and reviewer strategy. It should not displace the History criteria as the main disciplinary standard for the case.
+
+## Institutional Hierarchy
+
+The dossier should keep the institutional layers straight:
+
+ASU Academic Affairs and Provost process guides define university-level review procedures.
+
+The College of Liberal Arts and Sciences Office of Academic Personnel helps units and faculty navigate academic personnel processes.
+
+SHPRS / History criteria define the local disciplinary expectations that the dossier must answer.
+
+The dossier evidence maps Mark's record to those criteria and uses College/ASU process sources to stay procedurally aligned.
 
 ## Why This Matters
 
@@ -23,6 +41,14 @@ The research standard asks the candidate to demonstrate national or internationa
 Recognized forms include traditional monographs and journal articles, but also public-facing scholarship, digital projects, community-engaged research, oral history, curatorial works, and creative projects.
 
 The criteria recommend post-hoc review and AHA guidelines when work has not undergone traditional peer review. This matters for Curatescape, JOTPY, Cleveland Historical, Salt River Stories, ARCADE, oral history projects, public exhibits, and other embodied project scholarship.
+
+## Outside Review And Reviewer Strategy
+
+The History criteria state that the promotion process involves History faculty and external reviewers assessing the quality and impact of the submitted scholarship. They also recommend post-hoc review for scholarship that did not undergo peer review prior to publication, where applicable and feasible.
+
+The College tenure-track personnel page adds a practical reviewer-strategy question: identify external reviewers who are accomplished in the field, familiar with the work, and likely to strengthen the case.
+
+For Mark's dossier, this means the reviewer list should not be limited to scholars who can evaluate only books and articles. It should include people who can evaluate digital public history, oral history, public scholarship, curatorial work, platform/infrastructure building, collaborative scholarship, and conventional written scholarship as a combined scholarly record.
 
 ## Research Pathways
 
@@ -84,3 +110,4 @@ Standing and impact: international invitations, public initiatives, grants, proj
 
 Create an evidence table with four columns: criterion, dossier claim, evidence source, and gap. Start with the Research/standing criteria, because that is where the public/digital scholarship argument matters most.
 
+Keep the hierarchy visible while doing that work: History criteria for evaluation; College page for process and reviewer strategy; APARS vita and pre-2013 sources for evidence.
