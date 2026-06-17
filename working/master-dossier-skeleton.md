@@ -34,6 +34,30 @@ Digital projects in this record should be treated as scholarship. Curatescape, A
 
 The strongest dossier frame is quantity, quality, and impact. Quantity means a large body of writing, projects, grants, oral histories, public platforms, courses, students, and collaborations. Quality means peer-reviewed scholarship, international invitations, grant support, recognized public projects, and conceptual leadership in digital public history. Impact means reuse, adoption, citations, visitors, students trained, public audiences reached, institutional models created, and practices shaped across the field.
 
+## Project Goals
+
+Goal 1: create a usable evidence base that shows what Mark has done and indicates impact wherever possible. The working record should not become a pile of collected material; it should turn publications, digital/public projects, oral histories, grants, teaching, mentorship, leadership, platforms, press, citations, adoption, audiences, partnerships, and other evidence into tables, claims, sections, and prose.
+
+Goal 2: create a case of key points connected to specific items and evidentiary markers that demonstrate how the record meets the History promotion criteria.
+
+Goal 3: assess potential external reviewers by fit, independence, field coverage, and connection to ASU peer-institution expectations where possible.
+
+Goal 4: identify areas where more evidence gathering would strengthen the dossier, then turn those gaps into targeted tasks rather than endless searching.
+
+Goal 5: create the written case in Mark's voice. AI can detect patterns, build tables, test claims, and sharpen language, but the final prose should sound like Mark: direct, historically grounded, confident without puffery, and affirmative rather than defensive.
+
+## Concrete Goal Artifacts
+
+Goal 1 artifact: master evidence table with item, date, type, source, Mark's role, impact marker, and dossier use.
+
+Goal 2 artifact: criterion-to-evidence table keyed to the History promotion guidelines.
+
+Goal 3 artifact: reviewer strategy table with current affiliation, field, fit, ASU peer-institution relevance where possible, independence/conflict notes, and likely value to the case.
+
+Goal 4 artifact: evidence gap list divided into missing facts, missing documents, missing metrics, and missing interpretive language.
+
+Goal 5 artifact: one-page case frame and section-level prose in Mark's voice.
+
 ## Source Backbone
 
 The current official backbone is `Tebeau Vita APRS 20260617.pdf`, an automatically generated ASU/APARS Faculty180 PDF created on 2026-06-17. It should supersede `vita (1).doc` for current post-2013 evidence, while the older export remains useful as a comparison source. The APARS PDF contains current position, biography, expert areas, degrees, work experience, sabbatical, awards/fellowships, credit-bearing instruction, teaching/external learning, curriculum development, sponsored projects/grants, scholarship/publications, technology, other scholarly work, mentorship, university/unit service, and professional service.
