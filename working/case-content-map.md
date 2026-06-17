@@ -28,7 +28,7 @@ Publications and written scholarship: *Eating Smoke*, *Handbook of Digital Publi
 
 Digital/public project scholarship: Curatescape, Cleveland Historical, JOTPY, Salt River Stories, Cleveland Regional Oral History Project / Cleveland Voices, Humanities Action Lab projects, Climates of Inequality, and related digital/public humanities initiatives.
 
-Grants and funded leadership: Department of Education Teaching American History grants, NEH Mobile Museum Initiative / Mobile Historical, NSF collaboration, Curating Kisumu/MaCleKi, SocialScribe/Oral History Toolkit, Glen Canyon Dam administrative history, Arizona Humanities and partner-supported work.
+Grants and funded leadership: Department of Education Teaching American History grants at Cleveland State, including Academy of American History and Sounds of American History; NEH Mobile Museum Initiative / Mobile Historical; NSF collaboration; Curating Kisumu/MaCleKi; SocialScribe/Oral History Toolkit; Glen Canyon Dam administrative history; Arizona Humanities and partner-supported work.
 
 Teaching and mentoring: Public History Methodology, History in the Wild, Memory and Monuments, practicum courses, field-based projects, student public history work, graduate mentoring, and student outputs tied to public-facing projects.
 

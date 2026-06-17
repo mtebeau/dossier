@@ -48,9 +48,31 @@ These should not be counted as funded support. They may still matter as evidence
 | The Materiality of Loss | FP00001605 | Tebeau | SHPRS | National Endowment for the Humanities (NEH) | New Proposal | $29,877 | Mark shown as Sponsor PI. | Evidence for digital/public humanities inquiry around loss, materiality, and memory. |
 | Rescue, Resilience, and Renewal. The Story of Beth Hebrew, Phoenix | FP00021009_Res1 | Benkert | SHPRS | National Endowment for the Humanities (NEH) | Resubmission | $57,528 | Formal Mark PI/co-PI involvement; exact role to verify. | Shows continued proposal development around Phoenix Jewish history and preservation. |
 
+## Pre-ASU / Cleveland State Teaching American History Grants
+
+These grants are crucial to the longer dossier record because they connect funding, public history pedagogy, teacher professional development, oral history, regional archives, and the institutional infrastructure that later became central to Mark's digital public history work. They also show why the pre-2013 record cannot be reconstructed only from ASU systems.
+
+Teaching American History grants were typically awarded to Local Education Agencies rather than universities. For CSU-era grants, the federal or institutional award record may sit under the Educational Service Center of Cuyahoga County / ESC of Northeast Ohio, Cleveland Municipal School District, or another school-district partner, even when CSU and Mark's work were central.
+
+| Project / grant | Approximate dates | Formal award holder / administrative home | Mark role | Amount | Source leads | Dossier use | Verification needed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Academy of American History | 2004-2006 | U.S. Department of Education Teaching American History grant; CSU-hosted summer institute with regional partners | Mark had formal CSU grant/project involvement; exact PI/co-PI title to verify. | Needs award-record verification. | EngagedScholarship Academy of American History collection; Cleveland Voices Academy collection; CSU/CPHDH records. | Strong evidence tying TAH funding to teacher training, regional oral history, Cleveland Voices / CROHC, curriculum building, CSU public history infrastructure, and public-facing archives. | Locate original grant award notice, LEA applicant name, Mark's exact role/title, award amount, and grant period. |
+| Rivers, Roads, and Rails | 2006-2008 output trail; grant cycle to verify | Euclid City Schools lead applicant according to CSU/CPHDH source lead; collaboration with regional school districts, CSU, Case Western Reserve University, Kenyon College, Tuscarawas-Carroll-Harrison ESC, and National Park Service | Formal Mark/CSU PI or co-PI involvement; exact title to verify. | Multi-million-dollar TAH grant; exact amount to verify. | CSU/CPHDH project abstract lead; EngagedScholarship Rivers, Roads, and Rails collection; Cleveland Voices Rivers, Roads, and Rails collection. | Strong evidence tying TAH funding to regional environmental/urban history, the Ohio & Erie Canalway, teacher-created curriculum, oral history, preservation history, Cuyahoga Valley National Park, West Creek watershed, and Cleveland Voices / CROHC infrastructure. | Locate official federal award record under Euclid City Schools; verify amount, dates, Mark's role, and curriculum outputs. |
+| Sounds of American History | Late 2000s; culminating public event in 2010 | Educational Service Center of Cuyahoga County; U.S. Department of Education TAH funding | Co-writer of the grant proposal with Jennifer Felker; formal CSU History Department role. | $2 million according to ESC newsletter. | ESC Connection Spring 2010 newsletter; CPHDH / CSU records. | Major funded evidence: professional development for more than 70 teachers across seven Northeastern Ohio counties; connects public history, pedagogy, digital/audio/image sources, and regional teacher networks. | Locate official award record, grant start/end dates, final reports, curriculum outputs, and Mark's formal role/title. |
+| Shaker Lakes Nature Center Oral History Project | 2006-2008 collection records | Sponsored by Academy of American History TAH grant project | Related project evidence under the Academy of American History grant; exact Mark role to verify if used separately. | Part of broader TAH-funded work. | EngagedScholarship Shaker Lakes Nature Center collection; Cleveland Voices collection. | Shows TAH-funded oral history production around environmental education, preservation, grassroots activism, and regional public memory. | Treat as project output unless a separate grant line is found. |
+
+Public source leads:
+
+- Academy of American History, EngagedScholarship: https://engagedscholarship.csuohio.edu/crohc903/
+- Rivers, Roads, and Rails, CSU/CPHDH source lead: https://csudigitalhumanities.org/2006/03/rivers-roads-and-rails/
+- Rivers, Roads, and Rails, EngagedScholarship: https://engagedscholarship.csuohio.edu/crohc517/
+- Rivers, Roads, and Rails, Cleveland Voices source lead: https://clevelandvoices.org/collections/show/67
+- Sounds of American History, ESC Connection Spring 2010: https://www.escneo.org/Downloads/ESC_Connection_6_10_%20final2.pdf
+- Shaker Lakes Nature Center, EngagedScholarship: https://engagedscholarship.csuohio.edu/crohc902/
+
 ## Immediate Case Value
 
-The awarded rows give the case direct evidence of sponsored project support, especially around JOTPY and digital oral history. The declined rows should not be counted as funded support, but they matter because they show sustained, ambitious, formally recognized PI/co-PI research development around public humanities, digital archives, oral history infrastructure, pandemic memory, Phoenix history, and collaborative work across ASU units.
+The awarded ASU rows give the case direct evidence of sponsored project support, especially around JOTPY and digital oral history. The CSU Teaching American History rows extend the grants record backward and show an earlier funded foundation for oral history, teacher training, public history pedagogy, and durable archive-building. The declined ASU rows should not be counted as funded support, but they matter because they show sustained, ambitious, formally recognized PI/co-PI research development around public humanities, digital archives, oral history infrastructure, pandemic memory, Phoenix history, and collaborative work across ASU units.
 
 The stronger dossier argument is not simply "funded versus unfunded." It is that Mark's research agenda repeatedly generated fundable, externally legible projects that turned scholarly ideas into archives, platforms, public interpretation, metadata systems, oral history workflows, and collaborative public knowledge.
 
@@ -61,3 +83,4 @@ The stronger dossier argument is not simply "funded versus unfunded." It is that
 3. Locate award notices or final reports for the awarded items, especially JOTPY and Digital Oral History.
 4. Decide which declined proposals belong in the final dossier as evidence of research development and which should stay private.
 5. Add pre-2013 grant records from older CVs, Cleveland State files, CPHDH records, and project records.
+6. Search Department of Education / TAH records under LEA names, especially Educational Service Center of Cuyahoga County / ESC of Northeast Ohio, Cleveland Municipal School District, and Euclid City Schools.
