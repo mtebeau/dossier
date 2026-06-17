@@ -93,6 +93,10 @@ Section-level prose for the promotion statement.
 
 AI conversations: useful for seeing possible patterns, language, reviewer leads, and evidence gaps. They do not substitute for evidence.
 
-## Agent Note
+## Current Status And Use
 
-Start with content. Advance one artifact. Keep process language subordinate to the case.
+This content map is the first surface for choosing dossier work. It does not dictate the next session. It shows the claims, evidence clusters, files, and artifacts that matter now.
+
+Use it to choose one content artifact to advance: table, packet, evidence page, gap list, or prose.
+
+Agent note: keep process language subordinate to the case.
