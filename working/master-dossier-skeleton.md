@@ -34,6 +34,16 @@ Digital projects in this record should be treated as scholarship. Curatescape, A
 
 The strongest dossier frame is quantity, quality, and impact. Quantity means a large body of writing, projects, grants, oral histories, public platforms, courses, students, and collaborations. Quality means peer-reviewed scholarship, international invitations, grant support, recognized public projects, and conceptual leadership in digital public history. Impact means reuse, adoption, citations, visitors, students trained, public audiences reached, institutional models created, and practices shaped across the field.
 
+## Content Principle
+
+Organize the dossier around content, always.
+
+Key case claims and evidence come first. Tasks exist only to create tables, packets, and prose that strengthen the case. Superseded or claim-seed materials come later. Agent notes stay last and small.
+
+Working content map:
+
+`/Users/mtebeau/Documents/profile-repositories/dossier/working/case-content-map.md`
+
 ## Project Goals
 
 Goal 1: create a usable evidence base that shows what Mark has done and indicates impact wherever possible. The working record should not become a pile of collected material; it should turn publications, digital/public projects, oral histories, grants, teaching, mentorship, leadership, platforms, press, citations, adoption, audiences, partnerships, and other evidence into tables, claims, sections, and prose.
