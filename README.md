@@ -4,7 +4,15 @@ This dossier briefly introduces some books, essays, articles, talks, and project
 
 It serves as a public-facing record of scholarship, collaboration, and historical work developed across research, teaching, and public humanities practice. Rather than a formal CV, it offers a point of entry into the writing, projects, and institutions that have shaped my work.
 
-For a developing reviewer-facing evidence supplement, see [Public Dossier Evidence](public-dossier/README.md). That section will gather selected public evidence, project descriptions, impact markers, and links that can support the formal promotion case without trying to make every item part of the formal file itself.
+For a developing reviewer-facing evidence supplement, see [Public Dossier Evidence](public-dossier/README.md). That section is deliberately separate from the private working files. It will gather selected public evidence, project descriptions, impact markers, and links that can support the formal promotion case without trying to make every item part of the formal file itself.
+
+The repository has three different zones:
+
+`public-dossier/` is the curated reviewer-facing public layer. It should stay small in the short term and grow only as evidence is ready to share.
+
+`working/` contains private construction files, case maps, draft tables, models, and planning notes.
+
+`evidence/` contains source materials used to build the case and should be reviewed before anything is made public.
 
 <details open>
 <summary><strong>Bio</strong></summary>

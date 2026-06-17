@@ -19,6 +19,7 @@ This file keeps the dossier centered on content: the ideas that matter in the ca
 | External reviewers and post-project reviewers should be chosen for their ability to read the full record. | The case needs readers who can evaluate written scholarship, digital infrastructure, oral history, public archives, public impact, and conventional historical work. | External Reviewer Strategy note; ChatGPT reviewer source; College process page; History criteria; post-project review tracker. | Reviewer verification table; review request packets. |
 | Strong dossier models and guidance should shape the file. | Good examples and practical recommendations can help the case fit the promotion genre while still making the argument in Mark's voice. | ASU/College/SHPRS guidance; AHA/MLA/ACLS guidance; peer models if available; strong promotion statements if Mark can obtain them. | Dossier models and guidance note; lessons-from-models note. |
 | A public GitHub dossier section should showcase evidence that cannot fit inside the formal file. | Reviewers may need a navigable public supplement for project evidence, links, impact markers, and selected context. | `public-dossier/README.md`; project records; public URLs; publications; metrics; press; post-project reviews when available. | Public evidence pages for major projects and impact areas. |
+| Public and private dossier materials must remain clearly separated. | Working notes, uncertain claims, personnel materials, and evidence inventories should not bleed into the reviewer-facing public section. | `working/`; `evidence/`; `public-dossier/README.md`; root README. | Public/private boundary note and public evidence readiness checks. |
 | The final case must sound like Mark. | Voice is not decorative. The prose should be direct, historically grounded, confident, and affirmative without being inflated or defensive. | Existing scholarly writing; case frame drafts; project evidence; criteria map. | One-page case frame; section-level prose. |
 
 ## Major Evidence Clusters
@@ -38,6 +39,8 @@ Public impact: platform adoption, page views/analytics where available, oral his
 Models and guidance: strong promotion statements if available, ASU/College/SHPRS guidance, professional association guidance, and peer-institution examples of evaluating public/digital scholarship.
 
 Public evidence showcase: reviewer-facing GitHub pages that present evidence cleanly without overloading the formal file.
+
+Public/private separation: `working/` is private construction; `evidence/` holds source materials; `public-dossier/` is curated and reviewer-facing.
 
 ## Evidence Files
 

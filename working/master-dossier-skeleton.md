@@ -62,6 +62,8 @@ Goal 7: compile models of strong promotion files, strong statements, and practic
 
 Goal 8: create a public-facing GitHub dossier evidence section that showcases selected evidence for reviewers, especially materials that support the case but cannot all be included in the formal file.
 
+Goal 9: keep public pages clearly separate from private working pages. In the short term, the public evidence section should remain small and curated. Over time, more material can be committed there as it becomes ready for reviewers.
+
 ## Concrete Goal Artifacts
 
 Goal 1 artifact: master evidence table with item, date, type, source, Mark's role, impact marker, and dossier use.
@@ -91,6 +93,8 @@ Goal 8 artifact: public GitHub dossier evidence section with reviewer-facing pag
 Working public section:
 
 `/Users/mtebeau/Documents/profile-repositories/dossier/public-dossier/README.md`
+
+Goal 9 artifact: clear repository boundary language in the root README, `working/README.md`, `evidence/README.md`, and `public-dossier/README.md`.
 
 ## Source Backbone
 

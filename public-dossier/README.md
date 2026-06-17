@@ -4,6 +4,8 @@ This section will become a reviewer-facing evidence supplement for materials tha
 
 This is not the formal promotion dossier. It is a public evidence guide.
 
+This section is deliberately separate from `../working/` and `../evidence/`. In the short term, it should remain small: only polished, public-facing evidence pages belong here. Over time, more material can be committed into this area as it becomes ready for reviewers.
+
 ## Purpose
 
 The formal file will make the argument. This public section will help reviewers inspect selected evidence behind that argument: projects, publications, project descriptions, public impact markers, links, selected metrics, press, external reviews, and interpretive context.
@@ -53,3 +55,5 @@ Grants and funded leadership.
 ## Caution
 
 Do not place private personnel material, confidential review material, sensitive student information, or restricted institutional documents here. Public pages should showcase evidence that can be shared with reviewers and readers without compromising confidentiality.
+
+Working drafts, evidence inventories, model notes, private strategy, and uncertain claims belong in `../working/`, not here.
