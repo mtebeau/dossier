@@ -138,9 +138,9 @@ Needed next: create a project evidence table with project, dates, role, scholarl
 
 Purpose: demonstrate external validation, project leadership, collaborative capacity, and institutional impact.
 
-Known source anchors include NEH Mobile Museum Initiative, Mobile Historical, Department of Education Teaching American History grants, NSF Frankenstein/transmedia work, SocialScribe/Oral History Toolkit, Glen Canyon Dam administrative history, Curating Kisumu/MaCleKi, Arizona Humanities support, and other ASU Foundation or partner-supported projects.
+Known source anchors include NEH Mobile Museum Initiative, Mobile Historical, Department of Education Teaching American History grants, NSF Frankenstein/transmedia work, SocialScribe/Oral History Toolkit, Glen Canyon Dam administrative history, Curating Kisumu/MaCleKi, Arizona Humanities support, and other ASU Foundation or partner-supported projects. The first ASU proposal-system screenshot extraction is in `/Users/mtebeau/Documents/profile-repositories/dossier/working/grants-evidence-table.md`.
 
-Needed next: separate awarded grants from proposals and not-funded submissions. The ASU Vita export contains both, so the master record must avoid inflating funded totals while still preserving the evidence of ambitious research development.
+Needed next: verify roles, dates, and actual awarded amounts. Separate awarded grants from proposals and not-funded submissions. The ASU Vita export and proposal-system screenshots contain both, so the master record must avoid inflating funded totals while still preserving the evidence of ambitious research development.
 
 ### Teaching, Mentorship, And Student Success
 

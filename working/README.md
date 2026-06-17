@@ -10,6 +10,7 @@ Current working files:
 - `case-content-map.md` keeps the case centered on claims, evidence clusters, source files, and written artifacts.
 - `vita-section-map.md` maps the current APARS PDF into usable dossier evidence categories.
 - `history-promotion-criteria-map.md` maps the 2025 CLAS / SHPRS / History promotion criteria to the dossier case.
+- `grants-evidence-table.md` converts ASU proposal-system screenshots into a first-pass grants record, separating awarded/completed work from declined submissions.
 - `post-project-review-request-tracker.md` tracks post-project/post-hoc review requests.
 - `dossier-models-and-guidance.md` collects models and guidance for strong dossiers.
 
