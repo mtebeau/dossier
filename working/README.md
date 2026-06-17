@@ -6,6 +6,7 @@ Current working files:
 
 - `master-dossier-skeleton.md` builds the first promotion-case architecture from the current APARS PDF, public-facing README, short CVs, and SciENcv sketches.
 - `vita-section-map.md` maps the current APARS PDF into usable dossier evidence categories.
+- `history-promotion-criteria-map.md` maps the 2025 CLAS / SHPRS / History promotion criteria to the dossier case.
 
 The working rule is to build evidence architecture first, then turn that evidence into affirmative promotion prose later.
 
