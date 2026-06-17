@@ -16,6 +16,10 @@ Comparison sources:
 
 `/Users/mtebeau/Documents/profile-repositories/dossier/README.md`
 
+Stable scholarly identifier:
+
+[ORCID 0000-0003-1733-6486](https://orcid.org/0000-0003-1733-6486)
+
 ## Core Case
 
 The promotion case should be built around the convergence of written scholarship, digital public history infrastructure, public humanities leadership, oral history, teaching, and collaborative project-building. The key argument is not that the record is strong in one area despite another. The better frame is that the record is unusually strong because it combines traditional scholarly publication with durable, field-shaping digital and public-history work.
@@ -31,6 +35,8 @@ The working backbone is `vita (1).doc`, an ASU Vita export covering Spring 2013-
 The public-facing `README.md` in this repository is useful as a prose comparison source. It already offers compact language about the public-facing record: urban, public, and digital history; more than two dozen projects; JOTPY; Curatescape; the Center for Public History + Digital Humanities; more than $12 million in grant support; and the connection between scholarship, public audiences, archives, mobile publishing, and memory.
 
 The two-page CVs and SciENcv sketches are useful for compression and external framing. They should not govern the master record, but they can reveal which claims have already been selected for outside audiences.
+
+ORCID should be used as a stable identifier when gathering publication records, citation evidence, external profiles, and metadata from scholarly systems.
 
 ## Evidence Architecture
 
