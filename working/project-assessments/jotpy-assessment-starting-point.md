@@ -18,6 +18,14 @@ The safer current formulation is:
 
 JOTPY's public impact is visible not only in press coverage but in its distributed partner ecology: universities, archives, libraries, museums, community organizations, and international collaborators used the project as shared infrastructure for collecting, teaching, curating, and interpreting pandemic experience.
 
+The equivalency argument should be made through scope, rigor, and impact rather than a one-to-one conversion of project to book or article.
+
+Scope: JOTPY operated at the scale of a major born-digital public archive, with more than 20,000 digital objects, several hundred curators, dozens of participating institutions, scholarly and public collaborators, a distributed curatorial consortium, public contributors, students, educators, archivists, and international collaborators.
+
+Rigor: JOTPY's rigor appears in its archival and curatorial methods, metadata practices, attention to silences and representation, rapid-response and rolling-response models, teaching and internship structures, and the direct scholarly literature that theorizes the project.
+
+Impact: JOTPY's impact is visible through scholarly engagement, public interest, press coverage, partner and node adoption, teaching use, citation, professional attention, and validation by reviewers who can evaluate rapid-response archival scholarship and public digital history. The investment of time by several hundred curators from dozens of institutions is itself evidence of the project's intellectual force: scholars, archivists, teachers, students, and public partners chose to devote limited professional time to making the project successful because they recognized the importance of the vision.
+
 ## Evidence
 
 A first web scan on 2026-06-17 found a substantial public and professional media footprint.
@@ -68,6 +76,30 @@ A partner call for submissions, a university node page, a museum/archive announc
 Possible dossier wording after evidence cleanup:
 
 `JOTPY received broad public and professional attention, with more than forty documented press and public-facing references, including national outlets, international media, professional historical and archival organizations, university newsrooms, and community partner publications.`
+
+The first Google Scholar/Zotero capture also supports the scholarly-impact side of the case. On 2026-06-17, Mark created a Zotero collection called `Plague Year Journal` from the Google Scholar search for `"An Archive of Covid-19"`. The raw capture includes 82 top-level Zotero records, a significant visibility marker for a digital public history project in a field where citation density is lower than in many STEM and quantitative social-science fields. A first cleanup classified the records as follows:
+
+| Category | Raw records | Working use |
+|---|---:|---|
+| Direct JOTPY scholarship and method | 12 | Strong dossier evidence, representing approximately 11 distinct works after a duplicate/version pair is removed. |
+| Wider scholarly, professional, public, or comparative uptake | 24 | Useful after audit; includes comparative COVID archive literature, public/professional visibility, and broader memory/digital humanities/oral history uptake. |
+| JOTPY-native and pedagogical indexed artifacts | 8 | Evidence of scale, pedagogy, participation, and archive visibility, but not external scholarly citations. |
+| Hold for checking or context only | 19 | Do not count yet. |
+| Exclude from impact count | 19 | False positives, malformed records, unrelated items, or citation noise. |
+
+The cleaned evidence file is:
+
+`working/evidence/jotpy-google-scholar-classification.md`
+
+The raw Zotero export is:
+
+`working/evidence/jotpy-google-scholar-raw.json`
+
+This is precisely the distinction the dossier needs: the raw Google Scholar number signals broad visibility, while the cleaned record shows that JOTPY generated a substantial direct literature around rapid-response archiving, metadata, silences, pedagogy, stewardship, community practice, internships, and rolling-response archival method. That direct cluster is then reinforced by a wider layer of uptake in pandemic archive, memory studies, digital humanities, oral history, library, and public history conversations.
+
+Possible dossier wording after full-text audit:
+
+`JOTPY's impact appears in multiple registers: the scale of the archive itself, broad public and professional visibility, a distributed ecology of institutional partners, and a body of scholarly and professional literature that treats the project as a model for rapid-response archival practice, public humanities infrastructure, participatory metadata, and pandemic memory work.`
 
 ## Process And Method
 
