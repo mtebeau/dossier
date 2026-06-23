@@ -6,13 +6,11 @@ It serves as a public-facing record of scholarship, collaboration, and historica
 
 For a developing reviewer-facing evidence supplement, see [Public Dossier Evidence](public-dossier/README.md). That section is deliberately separate from the private working files. It will gather selected public evidence, project descriptions, impact markers, and links that can support the formal promotion case without trying to make every item part of the formal file itself.
 
-The repository has three different zones:
+The repository has one active zone:
 
 `public-dossier/` is the curated reviewer-facing public layer. It should stay small in the short term and grow only as evidence is ready to share.
 
-`working/` contains private construction files, case maps, draft tables, models, and planning notes.
-
-`evidence/` contains source materials used to build the case and should be reviewed before anything is made public.
+Private construction files, case maps, draft tables, model prose, planning notes, and source evidence live outside this repository in the private Field Vault Dossier Project.
 
 <details open>
 <summary><strong>Bio</strong></summary>

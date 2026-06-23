@@ -4,7 +4,7 @@ This section will become a reviewer-facing evidence supplement for materials tha
 
 This is not the formal promotion dossier. It is a public evidence guide.
 
-This section is deliberately separate from `../working/` and `../evidence/`. In the short term, it should remain small: only polished, public-facing evidence pages belong here. Over time, more material can be committed into this area as it becomes ready for reviewers.
+This section is deliberately separate from the private Field Vault Dossier Project. In the short term, it should remain small: only polished, public-facing evidence pages belong here. Over time, more material can be committed into this area as it becomes ready for reviewers.
 
 ## Purpose
 
@@ -56,4 +56,4 @@ Grants and funded leadership.
 
 Do not place private personnel material, confidential review material, sensitive student information, or restricted institutional documents here. Public pages should showcase evidence that can be shared with reviewers and readers without compromising confidentiality.
 
-Working drafts, evidence inventories, model notes, private strategy, and uncertain claims belong in `../working/`, not here.
+Working drafts, evidence inventories, model notes, private strategy, private source files, and uncertain claims belong in the private Field Vault Dossier Project, not here.
